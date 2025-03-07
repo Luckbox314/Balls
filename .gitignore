@@ -1,0 +1,22 @@
+# =============== #
+# Unity Generated #
+# =============== #
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
+Packages/manifest_temp.json
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db

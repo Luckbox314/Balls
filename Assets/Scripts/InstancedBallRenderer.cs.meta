@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc419e37062ecae43bb35dd95117e509
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sphereMesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  - ballMaterial: {fileID: 2100000, guid: e2bd36d49de9c884c8d191c0692f4266, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
